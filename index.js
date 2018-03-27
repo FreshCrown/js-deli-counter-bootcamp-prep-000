@@ -23,7 +23,7 @@ function currentLine(line){
   
   } else {
    
-    return "This line is currently empty.";
+    return "The line is currently empty.";
   
   
 }
