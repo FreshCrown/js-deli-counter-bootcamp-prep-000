@@ -19,7 +19,8 @@ function currentLine(line){
   //then say the line is empty
   } else {
   // var message = 'The line is currently:'
-  //iterate through the line and add to a message # and name `${}`
+  // var counter = 1
+  //iterate through the line and add to a message # and name `${counter}. ${name}, `
   return 'The line is currently: 1. Bill, 2. Jane, 3. Ann';
   
 }
