@@ -20,7 +20,7 @@ function currentLine(line){
   return "This line is currently empty.";
   
   } else {
-    var message = 'The line is currently:'
+    var message = 'The line is currently:';
     var counter = 1
   `
   return `The line is currently: 1. ${name} , 2. Jane, 3. Ann`
