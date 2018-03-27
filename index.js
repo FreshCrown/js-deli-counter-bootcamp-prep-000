@@ -15,10 +15,10 @@ function nowServing(theLine){
 }
 
 function currentLine(line){
-  //if no one is in line
+  if(line.length > 0){
   //then say the line is empty
-  //else
-  // var message = The line is currently: 
+  } else {
+  // var message = 'The line is currently:
   //iterate through the line and add to a message # and name `${}`
   return 'The line is currently: 1. Bill, 2. Jane, 3. Ann';
   
