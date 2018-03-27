@@ -16,7 +16,9 @@ function nowServing(theLine){
 
 function currentLine(line){
   if(line.length > 0){
+ 
   return "This line is currently.";
+  
   } else {
   // var message = 'The line is currently:'
   // var counter = 1
