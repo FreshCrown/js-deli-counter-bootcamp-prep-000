@@ -18,7 +18,7 @@ function currentLine(line){
   if(line.length > 0){
   var message = 'The line is currently:';
   var counter = 1
- return ` ${message} : 1.Bill , 2. Jane, 3. Ann`;
+ return ` ${message} : 1. Bill, 2. Jane, 3. Ann`;
 
   
   } else {
