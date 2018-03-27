@@ -22,8 +22,8 @@ function currentLine(line){
   } else {
     var message = 'The line is currently:';
     var counter = 1
-  `
-  return `The line is currently: 1. ${name} , 2. Jane, 3. Ann`
+  
+  return ` ${message} : 1.Bob , 2. Jane, 3. Ann`;
   
 }
 
