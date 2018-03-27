@@ -23,7 +23,7 @@ function currentLine(line){
     var message = 'The line is currently:'
     var counter = 1
   //iterate through the line and add to a message # and name `${counter}. ${name}, `
-  return 'The line is currently: 1. Bill, 2. Jane, 3. Ann';
+  return `The line is currently:, `${counter}`, , 2. Jane, 3. Ann`;
   
 }
 
